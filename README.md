@@ -34,6 +34,11 @@ Step 1 - Installation
  
  
  Here is Executed LivingDoc file for this Task:
+
+ C:\webautomationtask\WebAutomationTask\WebAutomationTask\LivingDoc.html
+
+![alt text](C:\webautomationtask\WebAutomationTask\WebAutomationTask\Execution.PNG)
+
  
   
   
