@@ -35,6 +35,7 @@ Step 1 - Installation
  
  Here is Executed LivingDoc file for this Task:
 
+ # Note: Open Livind Doc With Chrome
  ['Living Doc'](https://github.com/phaneendhra2980/WebAutomationTask/blob/master/WebAutomationTask/LivingDoc.html)
 
 ![alt text](https://github.com/phaneendhra2980/WebAutomationTask/blob/master/WebAutomationTask/Execution.PNG)
