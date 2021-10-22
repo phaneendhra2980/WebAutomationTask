@@ -35,9 +35,9 @@ Step 1 - Installation
  
  Here is Executed LivingDoc file for this Task:
 
- C:\webautomationtask\WebAutomationTask\WebAutomationTask\LivingDoc.html
+ ['Living Doc'](https://github.com/phaneendhra2980/WebAutomationTask/blob/master/WebAutomationTask/Execution.PNG/LivingDoc.html)
 
-![alt text](C:\webautomationtask\WebAutomationTask\WebAutomationTask\Execution.PNG)
+![alt text](https://github.com/phaneendhra2980/WebAutomationTask/blob/master/WebAutomationTask/Execution.PNG)
 
  
   
